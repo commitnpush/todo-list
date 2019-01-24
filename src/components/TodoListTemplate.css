@@ -23,3 +23,11 @@
 .todos-wrapper{
   min-height: 5rem;
 }
+
+.pallete-wrapper{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 20px;
+  background: #f3f3f3;
+}

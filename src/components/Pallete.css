@@ -1,0 +1,13 @@
+.color{
+  width: 35px;
+  height: 35px;
+  opacity: 0.5;
+}
+.color + .color{
+  margin-left: 15px;
+}
+
+.selected{
+  opacity: 1;
+  transition: 1s;
+}
